@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="4px" height="18px" viewBox="0 0 4 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-menu-dots-white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Web-App" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dashboard" transform="translate(-675.000000, -244.000000)" fill="#FFFFFF">
+            <g id="Stats-2" transform="translate(40.000000, 223.000000)">
+                <g id="Candidate-Activity" transform="translate(350.000000, 0.000000)">
+                    <g id="icon-menu-dots-white" transform="translate(285.000000, 21.000000)">
+                        <circle id="Oval-2" cx="2" cy="2" r="2"></circle>
+                        <circle id="Oval-2-Copy" cx="2" cy="9" r="2"></circle>
+                        <circle id="Oval-2-Copy-2" cx="2" cy="16" r="2"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
