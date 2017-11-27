@@ -4,9 +4,9 @@ import React from 'react'
 import glamorous, { Div, Span } from 'glamorous'
 import ColoredCard from './ColoredCard'
 
+// TODO: MISSING STYLES/SVG FOR COMPONENT.  SHOULD I USE FLEXBOX OR SOMETHING FOR POSITIONING ELEMENTS? //
 const CardContent = ({ candidateCount }) => (
-    <Div 
-        >
+    <Div>
         <Span 
             border="2px solid #fff" 
             borderRadius="50%" 

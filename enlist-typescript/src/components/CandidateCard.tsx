@@ -45,7 +45,7 @@ export const CandidateCard = ({
         <Div marginLeft="20px">
             <Avatar background={Colors.SEAFOAM_BLUE} user={`BP`} zIndex={1} />
             <Avatar background={Colors.STEEL_GREY} user={`EM`} zIndex={0} />
-            <Div position="relative" top="-24px" right="-61px">
+            <Div position="relative" top="-21px" right="-61px">
                 <ProgressBar steps={steps} />
             </Div>
         </Div>

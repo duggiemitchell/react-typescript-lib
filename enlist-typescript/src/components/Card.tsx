@@ -65,7 +65,7 @@ const Card = ({
                     <Div
                         style={
                             type === 'candidate'
-                                ? { position: 'relative', top: '23px' }
+                                ? { position: 'relative', top: '27px' }
                                 : null
                         }>
                         <ClockSvg color={alerts[level]} />
